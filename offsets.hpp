@@ -1,8 +1,6 @@
 #pragma once
 
-namespace FFlags
-{
-
+namespace FFlags {
  uintptr_t AppLifecycleManager = 0x6710668;
  uintptr_t InferredHangTracker = 0x67112a8;
  uintptr_t CrashReportLog = 0x6711348;
